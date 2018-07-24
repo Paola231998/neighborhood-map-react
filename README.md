@@ -1,7 +1,7 @@
 # Neighborhood-Map-React
 
 ## Overview:
-It is a single page app uses React Google maps and wikipedia API to list my favorite university and libraries in Philadelphia, Pennsylvania. This project was built for Udacity's front-end web developer Nanodegree to emphasize my experience in web development. 
+This project was realized for the front-end web developer of Udacity Nanodegree scholarship. Use of git clone https://github.com/Paola231998/neighborhood-map-react
 
 ## Technologies & Packages:
 * [Reactjs:](https://reactjs.org) A JavaScript library for building user interfaces.
@@ -27,5 +27,3 @@ It is a single page app uses React Google maps and wikipedia API to list my favo
 
 	`python -m SimpleHTTPServer 8000`
 * Then the App should run on [port 8000](http://localhost:8000). 
-
-
